@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em aprendizagem`**
 
-Olá me chamo Arthur Martins Fonseca dias, tenho 19 anos e sou natural do Distrito Federal Concluí o ensino médio no Colégio Estadual Rocha leal. Atualmente, estou cursando Ciência da computação Na Universidade Católica de Brasilia. Sou um Pequeno Amante por tecnologia e tambem gosto de video games e alguns jogos modernos, de vez enquanto gosto também de produzir conteúdo para internet.
+Olá me chamo Arthur Martins Fonseca dias, tenho 19 anos e sou natural do Distrito Federal Concluí o ensino médio no Colégio Estadual Rocha leal. Atualmente, estou cursando Ciência da computação Na Universidade Católica de Brasilia. Sou um Pequeno Amante por tecnologia e tambem gosto de video games e alguns jogos modernos, de vez enquanto gosto também de produzir conteúdo para internet sobre diversos assuntos, futuramente quero trazer conteúdo sobre programação de jogos e derivados.
 <p align="left">
     <a href="https://www.youtube.com/@AsthusD">
         <img 
