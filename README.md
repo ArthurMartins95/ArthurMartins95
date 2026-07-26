@@ -77,7 +77,7 @@ alt="SQL"
 title="SQL"
 width="30px"
 style="padding-right: 10px;"
-src="http://www.w3.org/2000/svg"
+src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg"
   /> 
 
 ### 📊 Estatísticas
