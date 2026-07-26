@@ -78,7 +78,7 @@ title="SQL"
 width="30px"
 style="padding-right: 10px;"
 src="http://www.w3.org/2000/svg"
-   
+  /> 
 
 ### 📊 Estatísticas
 
