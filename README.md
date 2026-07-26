@@ -18,14 +18,14 @@ Olá me chamo Arthur Martins Fonseca dias, tenho 19 anos e sou natural do Distri
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ArthurMartins95?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/ArthurMartins95?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -36,7 +36,7 @@ Olá me chamo Arthur Martins Fonseca dias, tenho 19 anos e sou natural do Distri
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens Com Experiência Básica
 
 <img 
     align="left" 
@@ -62,9 +62,23 @@ Olá me chamo Arthur Martins Fonseca dias, tenho 19 anos e sou natural do Distri
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+<img
+    align="Left"
+    alt="node.js"
+    title="Node.js"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://nodejs.org/static/logos/nodejsHex.svg"
 />
 
+<img
+align="Left"
+alt="SQL"
+title="SQL"
+width="30px"
+style="padding-right: 10px;"
+src="http://www.w3.org/2000/svg"
+   
 
 ### 📊 Estatísticas
 
