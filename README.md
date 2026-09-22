@@ -17,8 +17,7 @@ Olá me chamo Arthur Martins Fonseca dias, tenho 19 anos e sou natural do Distri
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
     </a>
     <a href="https://github.com/ArthurMartins95?tab=followers">
         <img 
