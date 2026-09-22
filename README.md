@@ -1,4 +1,4 @@
-<img width="113" height="20" alt="image" src="https://github.com/user-attachments/assets/ad6a5ae2-806b-4ae5-a9d4-ddfd4cf192bd" /># Arthur Martins Fonseca dias
+ Arthur Martins Fonseca dias
 
 **`Desenvolvedor em aprendizagem`**
 
@@ -8,16 +8,10 @@ Olá me chamo Arthur Martins Fonseca dias, tenho 19 anos e sou natural do Distri
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="<img width="113" height="20" alt="image" src="https://github.com/user-attachments/assets/a5ac6b25-391f-4f9f-a652-b5d0ab8f8fa6" />
-"
-        />
+            src="https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather"  />
     </a>
-    <a href="https://www.youtube.com/@AsthusD">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
+
+   />
     </a> 
     <a href="https://github.com/ArthurMartins95?tab=repositories">
         <img 
